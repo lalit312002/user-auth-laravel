@@ -9,14 +9,14 @@
 
 ## STEPS to RUN:
 
-cp .env.example .env
-open .env and update DB_DATABASE (database details)
-run : composer install
-run : npm i
-run : npm run dev(or build)
-run : php artisan key:generate
-run : php artisan migrate
-run : php artisan serve
+- cp .env.example .env
+- open .env and update DB_DATABASE (database details)
+- run : composer install
+- run : npm i
+- run : npm run dev(or build)
+- run : php artisan key:generate
+- run : php artisan migrate
+- run : php artisan serve
 
 ## About Laravel
 
